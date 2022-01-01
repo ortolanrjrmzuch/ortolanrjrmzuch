@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 
 <!--
 **ortolanrjrmzuch/ortolanrjrmzuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#  Believe in love, even if it brings you sad to also want to believe in love. 👋
